@@ -2,7 +2,7 @@
 
 网页网址：[澳洲三人同行](https://australia-travel-2027-liyj.cs-liyj.chatgpt.site)
 
-此 GitHub 仓库保持 **Private**，用于保存网页备份；在线网页通过 Sites 单独发布，按旅行人的选择公开访问。
+此 GitHub 仓库为 **Public**，用于保存网页备份。现有网页通过 Sites 公开发布，正在迁移至独立的 GitHub Pages 地址。
 
 ## 备份内容
 
