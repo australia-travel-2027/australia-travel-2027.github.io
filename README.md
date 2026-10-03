@@ -1,8 +1,8 @@
 # 澳洲三人同行 · 2027 旅行攻略
 
-网页网址：[澳洲三人同行](https://australia-travel-2027-liyj.cs-liyj.chatgpt.site)
+网页网址：[澳洲三人同行](https://australia-travel-2027.github.io/)
 
-此 GitHub 仓库为 **Public**，用于保存网页备份。现有网页通过 Sites 公开发布，正在迁移至独立的 GitHub Pages 地址。
+此 GitHub 仓库为 **Public**，由个人账号 `cs-liyj` 管理的免费组织 `australia-travel-2027` 持有。网页通过 GitHub Pages 公开发布，家人无需登录即可阅读。
 
 ## 备份内容
 
@@ -16,6 +16,8 @@
 
 ## 更新
 
-网页内容以本地“旅游计划”工作目录为编辑源。编辑后重新构建、发布，再更新本仓库的 ZIP 备份。本仓库不触发网站自动部署。
+网页内容以本地“旅游计划”工作目录为编辑源。编辑后重新构建并更新本仓库的 ZIP 备份，再进入 **Actions → Deploy Australia travel guide → Run workflow**，选择 `main` 手动发布。发布流程会解压 ZIP 并保留原目录结构；只有网页、样式和照片会进入网站。
+
+网址使用独立的 `australia-travel-2027.github.io` 域名。中国大陆不同网络的访问速度和可达性仍需以实际测试为准。
 
 旅期为 2027 年 1 月 30 日至 2 月 10 日，另含 1 月 29 日晚出发的提前抵达安排。酒店和航班预算为规划估算，具体价格、库存与规则以预订时为准。
